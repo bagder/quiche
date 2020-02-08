@@ -1,4 +1,0 @@
-/boringssl
-/target
-**/*.rs.bk
-Cargo.lock
